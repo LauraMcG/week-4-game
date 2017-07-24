@@ -1,11 +1,13 @@
-# Week-4-Game: Collect the Crystals for Glory
-_Created as part of the Northwestern Coding Boot Camp curriculum._
+# week-4-game: Collect the Crystals for Glory
+An interactive guessing game that invites users to match a computer-generated random number by clicking on crystals of various values!
 
-A game of hangman with a pokemon theme! Play it here: https://collect-the-crystals-for-glory.herokuapp.com
 
-## Technologies Used
-* jQuery
-* JavaScript
-* Bootstrap with custom CSS
+## Technologies used
 * HTML
+* CSS
+* Bootstrap framework
+* JavaScript
+* jQuery
+* Sublime Text
+
 
