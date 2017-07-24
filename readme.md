@@ -9,6 +9,3 @@ Collect the Crystals for Glory is an interactive guessing game. Users are presen
 * Bootstrap with custom CSS 
 * HTML
 
-
-
-
